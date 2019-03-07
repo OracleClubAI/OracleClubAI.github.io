@@ -9,21 +9,21 @@
 title: Oracle Club Machine Learning
 brief-intro: 人工智能
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ocml.github.io" # the base hostname & protocol for your site
+url: "OracleClubAI.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: 
 facebook_username: 
-github_username: OCML
-email: OCML@OSAI.Club
+github_username: OracleClubAI
+email: 
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
 dribbble_username:
 
-description_footer:  Oracle Club Machine Learning
+description_footer:  Oracle Club AI
 
 # comments
 # two ways to comment, only choose one, and use your own short name
