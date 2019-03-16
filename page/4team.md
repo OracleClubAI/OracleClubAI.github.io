@@ -10,8 +10,11 @@ type: page
 {:toc}
 
 ## 历届负责人
+
 - [陈权](https://github.com/chenquan)
+
 ## 历届成员
+
 - [杨理](https://github.com/LeoooY)
 - [曾晓军](https://github.com/Mxzxj)
 - [杨硕](https://github.com/Estelle1223)
@@ -23,4 +26,5 @@ type: page
 - [陈佳](https://github.com/Chen-Rom-Kay)
 - [叶璟](https://github.com/Suserra)
 ## 历届合影
+
 ![](img/IMG_20180526_085512.jpg)
