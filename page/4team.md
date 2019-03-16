@@ -25,6 +25,7 @@ type: page
 - [雷林鑫](https://github.com/leilinxin)
 - [陈佳](https://github.com/Chen-Rom-Kay)
 - [叶璟](https://github.com/Suserra)
+
 ## 历届合影
 
 ![](img/IMG_20180526_085512.jpg)
