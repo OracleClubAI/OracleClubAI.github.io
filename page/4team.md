@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Team
-permalink: /Team/
-icon: human
+permalink: /team/
+icon: user-circle
 type: page
 ---
 
