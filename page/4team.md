@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /Team/
-icon: bookmark
+icon: human
 type: page
 ---
 
