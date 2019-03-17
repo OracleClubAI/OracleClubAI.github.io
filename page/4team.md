@@ -25,6 +25,10 @@ type: page
 - [雷林鑫](https://github.com/leilinxin)
 - [陈佳](https://github.com/Chen-Rom-Kay)
 - [叶璟](https://github.com/Suserra)
+- [纪晓鹏](http://github.com/jiqwq)
+- [王姝荔](https://github.com/WSLAshin)
+- [谢明峰](https://github.com/776436093)
+
 
 ## 历届合影
 
