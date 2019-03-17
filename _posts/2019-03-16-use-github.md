@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "TF-SWUFE Oracle Club 机器学习基础分享会——GitHub运用"
-categories: 招新
-tags:  招新 机器学习 2018-2019-2
+categories: 分享会
+tags:  Git GitHub
 author: 雷林鑫
 
 ---
