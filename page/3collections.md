@@ -179,6 +179,7 @@ type: page
 - [HTML5 视频 By Pete LePage](https://www.html5rocks.com/zh/tutorials/video/basics/)
 
 ## 编辑器
+* [typora](https://www.typora.io/)
 
 ### Atom 中常用插件
 
