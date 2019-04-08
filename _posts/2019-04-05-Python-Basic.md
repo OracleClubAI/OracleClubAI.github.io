@@ -1,6 +1,10 @@
-| layout | title | categories| tags | author |
-| --- | --- | --- | --- | --- |
-| post | "TF-SWUFE Oracle Club 机器学习基础分享会——Python基础" | 分享会 | Python | 刘佳鑫 |
+---
+
+layout: post
+title:  "TF-SWUFE Oracle Club 机器学习基础分享会——Python基础"
+categories: 分享会
+tags:  Python
+author: 刘佳鑫
 
 ---
 
