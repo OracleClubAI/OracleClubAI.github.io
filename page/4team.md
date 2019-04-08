@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Team
 permalink: /team/
@@ -28,6 +28,7 @@ type: page
 - [纪晓鹏](http://github.com/jiqwq)
 - [王姝荔](https://github.com/WSLAshin)
 - [谢明峰](https://github.com/776436093)
+- [杨飘](https://github.com/Shigurea)
 
 
 ## 历届合影
