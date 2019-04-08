@@ -16,7 +16,6 @@ type: page
 ## 历届成员
 
 - [杨理](https://github.com/LeoooY)
-
 ~~- [曾晓军](https://github.com/Mxzxj)~~
 - [杨硕](https://github.com/Estelle1223)
 - [赵智豪](https://github.com/SHzhihao)
