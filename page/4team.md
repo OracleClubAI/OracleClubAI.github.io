@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Team
 permalink: /team/
@@ -12,7 +12,7 @@ type: page
 ## 历届负责人
 
 - [陈权](https://github.com/chenquan)
-
+- [何杭](https://github.com/abbhay)
 ## 历届成员
 
 - [杨理](https://github.com/LeoooY)
@@ -22,7 +22,7 @@ type: page
 - [伍佳伟](https://github.com/Samsara5)
 - [何杭](https://github.com/abbhay)
 - [鄢满乐](https://github.com/YanmanleLichen)
-- [雷林鑫](https://github.com/leilinxin)
+- ~~[雷林鑫](https://github.com/leilinxin)~~
 - [陈佳](https://github.com/Chen-Rom-Kay)
 - [叶璟](https://github.com/Suserra)
 - [纪晓鹏](http://github.com/jiqwq)
