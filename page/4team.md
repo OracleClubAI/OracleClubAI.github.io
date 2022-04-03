@@ -13,6 +13,8 @@ type: page
 
 - [陈权](https://github.com/chenquan)
 - [何杭](https://github.com/abbhay)
+- [杨飘](https://github.com/Shigurea)
+
 ## 历届成员
 
 - [杨理](https://github.com/LeoooY)
