@@ -31,8 +31,11 @@ pip install requests
 > http://lbsyun.baidu.com
 
 ![百度地图开发平台主页](https://img-blog.csdnimg.cn/20201118163954777.png#pic_center)
+
 进入百度地图开发平台页面以后先进行账号注册登录然后点击“开发文档”
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201118164139411.png#pic_center)
+
 选择LBS云，再点击下图“获取密钥”，进行“傻瓜式”激活流程就可以了！
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201118164215333.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Nvb2xfYnJlZXplX2Jpbg==,size_16,color_FFFFFF,t_70#pic_center)
